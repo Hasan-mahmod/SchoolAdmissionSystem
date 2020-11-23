@@ -1,0 +1,22 @@
+﻿https://dzone.com/articles/top-20-git-commands-with-examples
+
+Note:
+1. Use NoAction for OnDelete and OnUpdate in migration file for table Results,ApplyForm,Notice,Token
+
+
+Submit Date: 15-09-20 11:00 PM
+
+1. Arafat---- SchoolInfo, Address, EducationSystem
+2. Rafi----- AdmissionClass, Payment, ExamInfo
+3. Tanveer---- StudentSubjectGPA, AdmitCard, Token
+4. Hasan---- StudentInfo, PreviousSchoolInfo, Notice
+5. Adnan ---- Result, ApplyForm, Project Diagram
+
+Submit Date: 17-09-20 09:00 AM
+1. Rafi ---- Project Summary
+2. Arafat ---- Query Ready(Work Flow)
+3. Adnan ---- PostMan Data Check
+4. Hasan ---- BitBucket Ready
+5. Tanveer ---- Page Design Ready
+
+New Work for project
