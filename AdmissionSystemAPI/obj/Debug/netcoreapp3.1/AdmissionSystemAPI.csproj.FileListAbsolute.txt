@@ -1,0 +1,808 @@
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.exe
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csprojAssemblyReference.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfoInputs.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfo.cs
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.RazorTargetAssemblyInfo.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.Manifest.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.xml
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CopyComplete
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.deps.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.dev.json
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.genruntimeconfig.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.exe
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.deps.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.dev.json
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csprojAssemblyReference.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfoInputs.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfo.cs
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CopyComplete
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.Manifest.cache
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.xml
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+C:\Users\jakar\OneDrive\Desktop\Project\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.genruntimeconfig.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CoreCompileInputs.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\Project\FinalProject\AdmissionSystemSchool\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.exe
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.deps.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.dev.json
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csprojAssemblyReference.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfoInputs.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfo.cs
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.RazorTargetAssemblyInfo.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CopyComplete
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.Manifest.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.xml
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.genruntimeconfig.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CoreCompileInputs.cache
+G:\Project\BitBucket\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfoInputs.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfo.cs
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CoreCompileInputs.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csprojAssemblyReference.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.exe
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.deps.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.dev.json
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.RazorTargetAssemblyInfo.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CopyComplete
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.Manifest.cache
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.xml
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+C:\Users\gsl\Desktop\Final project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.genruntimeconfig.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.exe
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.deps.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.runtimeconfig.dev.json
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.TeamFoundation.Common.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.Common.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Services.WebApi.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfoInputs.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.AssemblyInfo.cs
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CoreCompileInputs.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.RazorTargetAssemblyInfo.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csproj.CopyComplete
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.Manifest.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\staticwebassets\AdmissionSystemAPI.StaticWebAssets.xml
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.dll
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.pdb
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.genruntimeconfig.cache
+D:\class\My Projects\Final Project\New folder\backendapi\AdmissionSystemAPI\AdmissionSystemAPI\obj\Debug\netcoreapp3.1\AdmissionSystemAPI.csprojAssemblyReference.cache
